@@ -1,0 +1,31 @@
+h1{
+    color: blue;
+}
+
+.colleges {
+    background: #c83;
+}
+
+
+.topics {
+    text-decoration: none;
+}
+.food {
+    max-width: 300px;
+    display: inline;
+}
+img {
+    
+    margin: 20px;
+    height: 255px;
+    width: 23hw;
+    padding: 5%;
+    display: inline;
+    
+
+   
+    max-width:40hw ;
+    min-width: 40hw;
+    
+
+}
